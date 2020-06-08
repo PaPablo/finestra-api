@@ -2,7 +2,7 @@ asgiref==3.2.7
 astroid==2.3.3
 attrs==19.3.0
 autopep8==1.5.1
-Django==3.0.5
+Django==3.0.7
 django-templated-mail==1.1.1
 djangorestframework==3.11.0
 djoser==2.0.3
